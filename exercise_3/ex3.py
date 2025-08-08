@@ -3,7 +3,7 @@ print ("I will now count my chickens:")
 #Conducting addition(+) and division(/) of hens
 print ("Hens", 25 + 30 / 6)
 #Conducting substraction(-), multiplication(*), and modulus(%) of roosters
-print ("Roosters", 100 - 25 * 3 % 4)
+print ("Roosters", float(100 - 25 * 3 / 4))
 
 print ("Now I will count the eggs:")
 
@@ -40,4 +40,4 @@ print ("Is it less or equal?", 5 <= -2)
 #Refer to ex3_drill.py
 
 #SD-4: Rewrite ex3.py to use floating point numbers so it’s more accurate. 20.0 is floating point.
-#Refer to ex3_drill.py
+#Done, in line 6. Line 4 and 11 already a floating point
