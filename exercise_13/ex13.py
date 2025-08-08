@@ -12,6 +12,7 @@ print ("The script is called:", script)
 print ("Your first variable is:", first)
 print ("Your second variable is:", second)
 print ("Your third variable is:", third)
+print (f"I can see this because i input: {arg_count} arguments")
 
 #STUDY DRILLS
 #SD-1. Try giving fewer than three arguments to your script. See that error you get? See if you can explain it.
